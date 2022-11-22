@@ -41,7 +41,7 @@
       "__id__": 1
     },
     "_children": [],
-    "_active": false,
+    "_active": true,
     "_components": [
       {
         "__id__": 3
@@ -261,6 +261,16 @@
     },
     "_enabled": true,
     "__prefab": null,
+    "startTime": 2,
+    "intervalTime": 2,
+    "material": {
+      "__uuid__": "fd53770b-1b94-4aba-b3d5-a6547118b730",
+      "__expectedType__": "cc.Material"
+    },
+    "texture": {
+      "__uuid__": "08354958-7031-4fc2-ad96-9210b80b8d41@6c48a",
+      "__expectedType__": "cc.Texture2D"
+    },
     "_id": "792/cRhyxCrqm/BCCvh420"
   },
   {
